@@ -73,5 +73,18 @@ namespace CalculatorTester
             int actual = c.Execute("+");
             Assert.AreEqual(expected, actual);
         }
+        [DataSource("Microsoft.VisualStudio.TestTools.DataSource.CSV", @".\Data\DataTest_CotToanTu.csv", "DataTest_CotToanTu#csv", DataAccessMethod.Sequential)]//nguon du lieu
+        [TestMethod]// TC7: voi du lieu tu file
+        public void Test_ToanTu_WithDataSource()
+        {
+            int a = int.Parse(TestContext.DataRow[0].ToString());
+            int b = int.Parse(TestContext.DataRow[1].ToString());
+            string Operator = TestContext.DataRow[2].ToString().Remove(0,1);//remove ky tu ' khoi Operator
+            int expected = int.Parse(TestContext.DataRow[3].ToString());
+
+            c = new Calcultion(a, b);
+            int actual = c.Execute(Operator);
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

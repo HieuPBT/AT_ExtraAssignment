@@ -17,3 +17,4 @@ C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\CalculatorTester\obj\Deb
 C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\CalculatorTester\obj\Debug\CalculatorTester.dll
 C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\CalculatorTester\obj\Debug\CalculatorTester.pdb
 C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\CalculatorTester\bin\Debug\Data\TestData.csv
+C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\CalculatorTester\bin\Debug\Data\DataTest_CotToanTu.csv

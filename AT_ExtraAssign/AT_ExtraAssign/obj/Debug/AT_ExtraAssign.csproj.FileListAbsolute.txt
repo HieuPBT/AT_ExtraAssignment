@@ -1,0 +1,11 @@
+C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\AT_ExtraAssign\bin\Debug\AT_ExtraAssign.exe.config
+C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\AT_ExtraAssign\bin\Debug\AT_ExtraAssign.exe
+C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\AT_ExtraAssign\bin\Debug\AT_ExtraAssign.pdb
+C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\AT_ExtraAssign\obj\Debug\AT_ExtraAssign.csproj.AssemblyReference.cache
+C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\AT_ExtraAssign\obj\Debug\AT_ExtraAssign.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\AT_ExtraAssign\obj\Debug\AT_ExtraAssign.Form1.resources
+C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\AT_ExtraAssign\obj\Debug\AT_ExtraAssign.Properties.Resources.resources
+C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\AT_ExtraAssign\obj\Debug\AT_ExtraAssign.csproj.GenerateResource.cache
+C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\AT_ExtraAssign\obj\Debug\AT_ExtraAssign.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\AT_ExtraAssign\obj\Debug\AT_ExtraAssign.exe
+C:\Users\Hieu\Desktop\ApplicationTesting\AT_ExtraAssign\AT_ExtraAssign\obj\Debug\AT_ExtraAssign.pdb
